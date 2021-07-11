@@ -1,6 +1,4 @@
 
-# test_app
-
 Flutter App with Google's Flutter & Dart based on **Academind** course
 
 
