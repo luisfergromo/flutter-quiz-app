@@ -8,7 +8,7 @@ Flutter App with Google's Flutter & Dart based on **Academind** course
  
 ## Installation
 
-Install my-project with npm
+Download and run flutter-quiz-app
 
 ```bash
   git clone https://github.com/luisfergromo/flutter-quiz-app.git
