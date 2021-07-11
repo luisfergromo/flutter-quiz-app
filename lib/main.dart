@@ -70,8 +70,8 @@ class _MyAppState extends State<MyApp> {
       debugShowCheckedModeBanner: false,
       home: Scaffold(
           appBar: AppBar(
-            title: Text("App"),
-          ),
+              //title: Text("App Name"),
+              ),
           body: _questionIndex < _questions.length
               ? Quiz(
                   answerQuestion: _answerQuestion,
